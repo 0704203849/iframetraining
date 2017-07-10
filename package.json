@@ -1,0 +1,29 @@
+{
+  "name": "iframe",
+  "version": "1.0.0",
+  "description": "npm",
+  "main": "iframe.js",
+  "dependencies": {
+    "eslint-loader": "^1.9.0",
+    "eslint": "^4.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.2.0"
+  },
+  "scripts": {
+    "test": "c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0704203849/SummerSchool.git"
+  },
+  "keywords": [
+    "iframe"
+  ],
+  "author": "conrad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0704203849/SummerSchool/issues"
+  },
+  "homepage": "https://github.com/0704203849/SummerSchool#readme"
+}
